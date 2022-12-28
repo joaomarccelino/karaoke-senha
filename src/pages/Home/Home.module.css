@@ -1,0 +1,16 @@
+.actualSinger {
+  display: flex;
+  gap: 40px;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.actualSinger a {
+  text-decoration: none;
+  color: #111;
+  font-size: 2rem;
+  background-color: aqua;
+  padding: 10px 20px;
+  border-radius: 8px;
+}
